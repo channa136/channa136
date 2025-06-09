@@ -1,3 +1,4 @@
+#This file Scraps Data
 import logging
 import time
 from selenium import webdriver

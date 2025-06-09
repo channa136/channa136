@@ -1,0 +1,57 @@
+2025-06-08 15:19:17,528 - INFO - WEB succefully opened
+2025-06-08 15:19:54,655 - INFO - File created
+2025-06-08 15:20:01,058 - INFO - Sheet updated succefully
+2025-06-08 15:24:58,119 - INFO - WEB succefully opened
+2025-06-08 15:25:29,764 - INFO - WEB succefully opened
+2025-06-08 15:39:06,749 - INFO - WEB succefully opened
+2025-06-08 15:39:38,774 - INFO - Data succefully scraped
+2025-06-08 15:39:38,782 - INFO - File created
+2025-06-08 15:39:38,782 - ERROR - Exception in sending email : name 'reverser' is not defined
+2025-06-08 15:41:31,541 - INFO - WEB succefully opened
+2025-06-08 15:42:17,752 - INFO - WEB succefully opened
+2025-06-08 15:42:49,759 - INFO - Data succefully scraped
+2025-06-08 15:42:49,767 - INFO - File created
+2025-06-08 15:42:54,415 - INFO - Email sent
+2025-06-08 15:55:02,616 - INFO - WEB succefully opened
+2025-06-08 15:55:34,873 - INFO - Data succefully scraped
+2025-06-08 15:55:34,881 - INFO - File created
+2025-06-08 15:55:39,371 - INFO - Email sent
+2025-06-08 15:55:39,371 - INFO - Crypto email sent finally
+2025-06-08 15:55:43,345 - INFO - WEB succefully opened
+2025-06-08 15:56:16,036 - INFO - Data succefully scraped
+2025-06-08 15:56:16,036 - INFO - File created
+2025-06-08 15:56:23,042 - INFO - Sheet updated succefully
+2025-06-08 15:56:23,044 - INFO - Sheets updated finally
+2025-06-08 15:56:23,044 - INFO - Sheets updated finally
+2025-06-08 18:20:54,862 - INFO - WEB succefully opened
+2025-06-08 18:21:27,703 - INFO - Data succefully scraped
+2025-06-08 18:21:27,764 - INFO - File created
+2025-06-08 18:21:34,338 - INFO - Email sent
+2025-06-08 18:21:34,338 - INFO - Crypto email sent finally
+2025-06-08 18:21:44,101 - INFO - WEB succefully opened
+2025-06-08 18:22:16,754 - INFO - Data succefully scraped
+2025-06-08 18:22:16,757 - INFO - File created
+2025-06-08 18:22:26,218 - INFO - Sheet updated succefully
+2025-06-08 18:22:26,228 - INFO - Sheets updated finally
+2025-06-08 18:22:26,228 - INFO - Sheets updated finally
+2025-06-08 18:22:26,228 - INFO - executer took 113.91897630691528 seconds to execute
+2025-06-08 18:50:12,136 - INFO - WEB succefully opened
+2025-06-08 18:50:45,094 - INFO - Data succefully scraped
+2025-06-08 18:50:45,094 - INFO - File created
+2025-06-08 18:50:50,955 - INFO - Sheet updated succefully
+2025-06-08 18:53:30,402 - INFO - WEB succefully opened
+2025-06-08 18:54:02,615 - INFO - Data succefully scraped
+2025-06-08 18:54:02,615 - INFO - File created
+2025-06-08 18:54:07,761 - INFO - Sheet updated succefully
+2025-06-09 10:49:09,567 - INFO - WEB succefully opened
+2025-06-09 10:49:42,454 - INFO - Data succefully scraped
+2025-06-09 10:49:42,468 - INFO - File created
+2025-06-09 10:49:46,153 - INFO - Email sent
+2025-06-09 10:49:46,153 - INFO - Crypto email sent finally
+2025-06-09 10:49:51,269 - INFO - WEB succefully opened
+2025-06-09 10:50:24,892 - INFO - Data succefully scraped
+2025-06-09 10:50:24,901 - INFO - File created
+2025-06-09 10:50:29,476 - INFO - Sheet updated succefully
+2025-06-09 10:50:29,476 - INFO - Sheets updated finally
+2025-06-09 10:50:29,476 - INFO - Sheets updated finally
+2025-06-09 10:50:29,476 - INFO - executer took 83.79470777511597 seconds to execute
